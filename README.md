@@ -9,6 +9,13 @@ So, I make simple homepage to understand this structure. It is quiet simple and 
 If you want to know what Back-End programming is or understand what structure of homepage is.
 
 I recommend you to study PHP & SQL. I guess PHP is so easy if you have aleady studied coding, but SQL(language of Managing Database) is not easy.
-It's OK. Just try it. If you are Korean, you can find Documents in here: http://haipin.ivyro.net/bbs/board.php?bo_table=database
+It's OK. Just try it. 
+
+HOMEPAGE Structure
+![Homepage structure](./hpstructure.png)
+
+[## Acting Hompage](http://soori.ivyro.net/test/)
+
+[## Documents](http://haipin.ivyro.net/bbs/board.php?bo_table=database)
 
 Thanks!
