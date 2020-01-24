@@ -11,11 +11,16 @@ If you want to know what Back-End programming is or understand what structure of
 I recommend you to study PHP & SQL. I guess PHP is so easy if you have aleady studied coding, but SQL(language of Managing Database) is not easy.
 It's OK. Just try it. 
 
-HOMEPAGE Structure
+## HOMEPAGE Structure
 ![Homepage structure](./hpstructure.png)
 
-[## Acting Hompage](http://soori.ivyro.net/test/)
+## Acting Sample Homepage
+[Acting Homepage](http://soori.ivyro.net/test/)
+You can easily make a Free Webserver; during 6month.
 
-[## Documents](http://haipin.ivyro.net/bbs/board.php?bo_table=database)
+## Ducuments (Korean)
+[Documents](http://haipin.ivyro.net/bbs/board.php?bo_table=database)
+
+If you have any questing, please use Issues.
 
 Thanks!
