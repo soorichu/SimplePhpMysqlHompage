@@ -13,6 +13,7 @@ It's OK. Just try it.
 
 ## HOMEPAGE Structure
 ![Homepage structure](./hpstructure.png)
+I don't insert structure of Chatroom(using Ajax). 
 
 ## Acting Sample Homepage
 [Acting Homepage](http://soori.ivyro.net/test/)
