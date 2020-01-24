@@ -3,7 +3,7 @@ Study Simple PHP &amp; MySQL Homepage. It is helpful to study GNUboard or Wordpr
 
 This is very simple homepage using PHP5.0  & MySQL5.0 
 I Make this Homepage for my Class; Database.
-Todays homepage is not made by HTML&CSS&JS. It is synclonized DB & HTML, and a Part of synclonizing is PHP(or NodeJS, Ruby, Pearl etc..)
+Todays homepage is not made by HTML&CSS&JS. It is interacting DB & HTML, and a interacter is PHP(or NodeJS, Ruby, Pearl etc..)
 For example, Wordpress and Gnuboard are good Homepage using PHP&Mysql. However, understanding the structure of these homepage is too difficult, because these are getting complecated more and more. 
 So, I make simple homepage to understand this structure. It is quiet simple and you can find simmular .php in bbc/ in Gnuboard.
 If you want to know what Back-End programming is or understand what structure of homepage is.
