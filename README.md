@@ -20,6 +20,8 @@ You can easily make a Free Webserver; during 6month.
 
 ## Ducuments (Korean)
 [Documents](http://haipin.ivyro.net/bbs/board.php?bo_table=database)
+That is written as Korean. Format is HWP(한글과 컴퓨터). 
+
 
 If you have any questing, please use Issues.
 
